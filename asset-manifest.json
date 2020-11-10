@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/api-rest-project/static/css/main.059cadec.chunk.css",
+    "main.js": "/api-rest-project/static/js/main.e7f9929e.chunk.js",
+    "main.js.map": "/api-rest-project/static/js/main.e7f9929e.chunk.js.map",
+    "runtime-main.js": "/api-rest-project/static/js/runtime-main.64ad79da.js",
+    "runtime-main.js.map": "/api-rest-project/static/js/runtime-main.64ad79da.js.map",
+    "static/js/2.d0461379.chunk.js": "/api-rest-project/static/js/2.d0461379.chunk.js",
+    "static/js/2.d0461379.chunk.js.map": "/api-rest-project/static/js/2.d0461379.chunk.js.map",
+    "index.html": "/api-rest-project/index.html",
+    "precache-manifest.8173119e14a5bf34919b105b0252618c.js": "/api-rest-project/precache-manifest.8173119e14a5bf34919b105b0252618c.js",
+    "service-worker.js": "/api-rest-project/service-worker.js",
+    "static/css/main.059cadec.chunk.css.map": "/api-rest-project/static/css/main.059cadec.chunk.css.map",
+    "static/js/2.d0461379.chunk.js.LICENSE.txt": "/api-rest-project/static/js/2.d0461379.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64ad79da.js",
+    "static/js/2.d0461379.chunk.js",
+    "static/css/main.059cadec.chunk.css",
+    "static/js/main.e7f9929e.chunk.js"
+  ]
+}
